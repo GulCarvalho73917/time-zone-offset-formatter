@@ -1,0 +1,17 @@
+{
+  "name": "time-zone-offset-formatter",
+  "version": "0.1.0",
+  "description": "Formats a UTC offset into ISO 8601 extended format like +08:00 or -05:30 from a total offset in minutes.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
